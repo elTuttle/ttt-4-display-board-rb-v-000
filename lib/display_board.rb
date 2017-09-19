@@ -3,5 +3,5 @@ def display_board(displayArray)
   puts "-----------"
   puts " #{displayArray[3]} | #{displayArray[4]} | #{displayArray[5]}"
   puts "-----------"
-  puts " #{displayArray[6]} | #{displayArray[7]} | #{displayArray[8]}"  
+  puts " #{displayArray[6]} | #{displayArray[7]} | #{displayArray[8]}"
 end
